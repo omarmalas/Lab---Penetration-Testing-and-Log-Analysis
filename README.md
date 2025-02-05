@@ -1,12 +1,10 @@
 # Penetration-Testing-and-Log-Analysis-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 To simulate a real-world cyberattack by conducting a penetration test on a Windows machine within a controlled virtual environment, identifying vulnerabilities (RDP exploitation via Metasploit), and analyzing attack logs using Splunk. The lab also focused on setting up Sysmon for detailed event logging and implementing effective remediation strategies to enhance system security.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -19,7 +17,6 @@ To simulate a real-world cyberattack by conducting a penetration test on a Windo
 - Exploitation & Post-Exploitation: Gaining access and understanding attacker techniques
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.(Splunk)
 - Sysmon – Configured for advanced event logging
@@ -34,6 +31,7 @@ To simulate a real-world cyberattack by conducting a penetration test on a Windo
 
 
 ## Steps
+
 1. Setting Up the Lab Environment
 - Created a Windows 10 VM as the target machine
 - Installed Kali Linux VM as the attack machine
